@@ -3,7 +3,7 @@
 **Mata Kuliah:** Pemrograman Mobile  
 **Topik Tugas:** INTERACTIVE MOBILE UI DENGAN FLUTTER GESTURES  
 **Nama Aplikasi:** EcoGrid Energy Simulator  
-**NIM:** 202431091 (Digit terakhir ganjil: `1`)  
+**NIM:** 202431091  
 **Platform Target:** Android (Responsive & Adaptive Mobile Layout)  
 **Bahasa Antarmuka:** Bahasa Indonesia  
 
@@ -253,8 +253,7 @@ ecogrid/
 
 ## 10. Identitas Pengembang
 
-* **Nama:** [Isi Nama Anda]
+* **Nama:** Jonathan Steven Sitorus
 * **NIM:** 202431091 (Ganjil)
 * **Program Studi:** Teknik Informatika / Sistem Informasi
-* **Mata Kuliah:** Pemrograman Mobile
-* **Tautan Repository GitHub:** `https://github.com/[username]/ecogrid`
+* **Mata Kuliah:** Pemrograman Mobile E
